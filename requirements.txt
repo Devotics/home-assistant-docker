@@ -1,0 +1,8 @@
+netdisco
+psutil
+speedtest-cli
+python-mpd2
+python-nmap
+fritzconnection
+psycopg2
+sqlalchemy
